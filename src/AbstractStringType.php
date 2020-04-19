@@ -2,7 +2,7 @@
 
 namespace EmilBogumil\CustomTypes;
 
-abstract class AbstractStringType
+abstract class AbstractStringType extends AbstractType
 {
     const BASE_TYPE = "string";
     const VALIDATION_REGEX = "/.*/";
