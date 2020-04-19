@@ -1,6 +1,6 @@
 <?php
 
-namespace CustomTypes;
+namespace EmilBogumil\CustomTypes;
 
 abstract class AbstractStringType
 {
